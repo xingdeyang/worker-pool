@@ -1,0 +1,29 @@
+{
+  "name": "worker-pool",
+  "version": "1.0.0",
+  "description": "JS线程池类",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xingdeyang/worker-pool.git"
+  },
+  "keywords": [
+    "js线程池",
+	"pool",
+	"worker",
+	"threads"
+  ],
+  "author": "xingdeyang@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xingdeyang/worker-pool/issues"
+  },
+  "homepage": "https://github.com/xingdeyang/worker-pool#readme",
+  "types": "index.d.ts"
+}

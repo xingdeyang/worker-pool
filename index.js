@@ -78,4 +78,4 @@ class WorkerPool {
 	}
 }
 
-module.exports = WorkerPool
+export default WorkerPool
